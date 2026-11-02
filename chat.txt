@@ -8,3 +8,5 @@ WhatsappDev
 4. audio call
 
 5.video call enabled
+
+6.Delete sent video,chat and audio
